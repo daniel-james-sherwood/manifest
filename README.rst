@@ -13,3 +13,4 @@ This repository contains manifest files including different sets of components
 covering different needs:
 
 * everything.xml : All BabbleSim components hosted in this server
+* zephyr_ci.xml : BabbleSim components meant for Zephyr CI runs
