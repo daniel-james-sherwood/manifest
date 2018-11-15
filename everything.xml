@@ -15,6 +15,7 @@
   <project name="ext_2G4_phy_v1.git" path="components/ext_2G4_phy_v1" groups="bsim"/>
   <project name="ext_2G4_channel_NtNcable.git" path="components/ext_2G4_channel_NtNcable" groups="bsim"/>
   <project name="ext_2G4_modem_magic.git" path="components/ext_2G4_modem_magic" groups="bsim"/>
+  <project name="ext_2G4_modem_BLE_simple.git" path="components/ext_2G4_modem_BLE_simple" groups="bsim"/>
   <project name="ext_2G4_device_burst_interferer.git" path="components/ext_2G4_device_burst_interferer" groups="bsim"/>
   <project name="ext_2G4_device_playback.git" path="components/ext_2G4_device_playback" groups="bsim"/>
   <project name="ext_NRF52_hw_models.git" path="components/ext_NRF52_hw_models" groups="bsim"/>
