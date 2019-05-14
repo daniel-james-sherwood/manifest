@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="bsim-gh"
-           fetch="ssh://git@github.com/BabbleSim"
+           fetch="https://github.com/BabbleSim"
            />
   <default revision="master"
            remote="bsim-gh"
